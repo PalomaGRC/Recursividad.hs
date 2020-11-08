@@ -13,7 +13,7 @@ opciones n = do
         putStrLn "3.- Factorial"
         putStrLn "4.- Desaparecer números"
         putStrLn "5.- Palíndromo"
-        putStrLn "6.- Calculadora aritmética de dos dígitos"
+        putStrLn "6.- Calculadora aritmética de dos números"
         putStrLn "7.- Salir"
         putStrLn "Dame una opción: "
         opc <- getLine
