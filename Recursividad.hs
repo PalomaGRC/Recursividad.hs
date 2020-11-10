@@ -79,7 +79,7 @@ desapareceNumeros = do
 
 lista x = 
 
-    if null x
+    if x == []
         then
         print ("Fin") 
     else do
